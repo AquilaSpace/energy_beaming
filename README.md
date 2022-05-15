@@ -1,2 +1,2 @@
 # Energy Beaming
-Financial modelling for an initial application of the Aquila global energy transmission system.
+Financial modelling for an initial application of our planned global energy transmission system.
